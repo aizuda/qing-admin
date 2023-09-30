@@ -2,6 +2,7 @@
 	<div class="login-container">
 		<el-form ref="loginFormRef" :model="loginForm" :rules="loginRules" class="login-form" auto-complete="on" label-position="left">
 			<div class="title-container">
+				<img src="/logo.png" style="width: 60px;height: 60px;">
 				<h3 class="title">{{ $t('login.title') }}</h3>
 				<lang-select class="set-language" />
 			</div>

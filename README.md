@@ -1,4 +1,5 @@
-![logo](docslogo.png)
+
+<img src="/docs/logo.png" alt="flowlong" width="100px" height="100px">
 
 # qing-admin
 

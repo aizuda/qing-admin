@@ -4,7 +4,7 @@
 		<el-header>
 			<div class="logo">
 				<!--          <SvgIcon class="logo-img sidebar-logo" icon-class="logo" />-->
-				<img class="logo-img" src="@/assets/icons/logo.svg" alt="logo" />
+				<img class="logo-img" src="/logo.png" alt="logo" />
 				<span class="logo-text text-overflow_ellipsis" :title="title">{{ title }}</span>
 			</div>
 			<el-menu class="layout-menu-wrap" mode="horizontal" :router="false" :default-active="activeMenu">

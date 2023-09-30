@@ -5,7 +5,7 @@
 			<div class="aside-box" :style="{ width: isCollapse ? '65px' : '210px' }">
 				<div class="logo">
 					<!--          <SvgIcon class="logo-img sidebar-logo" icon-class="logo" />-->
-					<img class="logo-img" src="@/assets/icons/logo.svg" alt="logo" />
+					<img class="logo-img" src="/logo.png" alt="logo" />
 					<span v-show="!isCollapse" class="text-overflow_ellipsis logo-text" :title="title">{{ title }}</span>
 				</div>
 				<el-scrollbar>

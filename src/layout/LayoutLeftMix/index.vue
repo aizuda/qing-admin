@@ -3,9 +3,7 @@
 	<el-container class="layout-wrap--topMix">
 		<div class="aside-split">
 			<div class="logo">
-				<!--				<img class="logo-img" src="@/assets/images/logo.svg" alt="logo" />-->
-				<!--          <SvgIcon class="logo-img sidebar-logo" icon-class="logo" />-->
-				<img class="logo-img" src="@/assets/icons/logo.svg" alt="logo" />
+				<img class="logo-img" src="/logo.png" alt="logo" />
 			</div>
 			<el-scrollbar>
 				<div class="split-list">
