@@ -5,6 +5,7 @@
 
 - 轻量搭配、简单好用！
 
+[演示地址 https://qingadmin.gitee.io/](https://qingadmin.gitee.io/)
 
 ## 技术栈
 
