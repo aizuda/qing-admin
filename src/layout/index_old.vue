@@ -1,7 +1,7 @@
 <template>
 	<div :class="classObj" class="app-wrapper">
 		<div v-if="device === 'mobile' && !setting.isCollapse" class="drawer-bg" @click="handleClickOutside" />
-<!--		<Sidebar class="sidebar-container" />-->
+		<!--		<Sidebar class="sidebar-container" />-->
 
 		<div class="main-container">
 			<div :class="{ 'fixed-header': fixedHeader }">
